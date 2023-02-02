@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109139200877",
+    "project_id": "flash-chat-cd32d",
+    "storage_bucket": "flash-chat-cd32d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109139200877:android:3832e39893328036c0a864",
+        "android_client_info": {
+          "package_name": "co.sapaev_denis.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109139200877-pfrbot5u317nunpje2qimi2386caumsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAR3KM8iqyhZ2sO2KjFX3wLaph5ucBEVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109139200877-pfrbot5u317nunpje2qimi2386caumsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
